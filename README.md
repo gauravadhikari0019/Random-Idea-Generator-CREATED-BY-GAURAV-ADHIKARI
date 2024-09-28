@@ -31,10 +31,3 @@ Check out the live demo of the project:
 3. A random idea will appear on the screen for you to use or get inspired by.
 4. You can click the button as many times as you want to generate more ideas.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/random-idea-generator.git
