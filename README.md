@@ -1,0 +1,2 @@
+# Random-Idea-Generator-CREATED-BY-GAURAV-ADHIKARI
+Random Idea Generator CREATED BY GAURAV ADHIKARI
